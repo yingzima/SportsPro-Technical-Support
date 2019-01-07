@@ -1,10 +1,4 @@
-# Team1 - Fall 2017
-Team 1 Repository for Assignment 5 <br />
+# SportsPro Technical Support
 
-YuHsing Chang: Part M <br />
-Mark Hibyan: Part N <br />
-Yingzi Ma: Part O <br />
-Yue Shu: Part P <br />
-
-All: Part Q
-
+SportsPro Technical Support is a Sports product management web application for the sports enthusiast developed in PHP.
+It features user interface, input handling, data validation, and connection to SQL database.
